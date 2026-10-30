@@ -8,7 +8,7 @@ Interactive 3D playable ads, built with [drm-engine](https://github.com/doctormi
 <a href="https://doctormiw.github.io/drm-engine-previews/laptop-break/"><img src="laptop-break/cover.gif" width="240" alt="Break the Laptop"></a><br>
 <b>Break the Laptop</b><br>
 <a href="https://doctormiw.github.io/drm-engine-previews/laptop-break/">▶ Play online</a><br>
-<sub>2.2 MB · 2026-10-28</sub>
+<sub>2.3 MB · 2026-10-30</sub>
 </td>
 </tr>
 </table>
